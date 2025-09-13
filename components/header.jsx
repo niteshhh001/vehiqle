@@ -33,7 +33,7 @@ const Header = async ({ isAdminPage = false }) => {
               <Link href="/">
                 <Button variant="outline" className="flex items-center gap-2">
                   <ArrowLeft size={18} />
-                  <span>Back to App</span>
+                  <span>Back to Home</span>
                 </Button>
               </Link>
             </>
